@@ -1,6 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="https://linden2015.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://linden2015.com/blog/" rel="alternate" type="text/html" /><updated>2018-06-26T23:31:34+02:00</updated><id>https://linden2015.com/blog/</id><title type="html">Blog about skills and ideas</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Five steps to make office work easier on your body</title><link href="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html" rel="alternate" type="text/html" title="Five steps to make office work easier on your body" /><published>2018-06-11T21:21:00+02:00</published><updated>2018-06-11T21:21:00+02:00</updated><id>https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body</id><content type="html" xml:base="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html">&lt;p&gt;2018-06-26: rewritten&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="https://linden2015.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://linden2015.com/blog/" rel="alternate" type="text/html" /><updated>2018-07-02T16:50:58+02:00</updated><id>https://linden2015.com/blog/</id><title type="html">Blog about skills and ideas</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Five steps to make office work easier on your body</title><link href="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html" rel="alternate" type="text/html" title="Five steps to make office work easier on your body" /><published>2018-06-11T21:21:00+02:00</published><updated>2018-06-11T21:21:00+02:00</updated><id>https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body</id><content type="html" xml:base="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html">&lt;p&gt;2018-06-26: rewritten&lt;/p&gt;
 
 &lt;h1 id=&quot;computer-screen&quot;&gt;Computer screen&lt;/h1&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/computer-screen-too-low.jpg&quot; alt=&quot;Too low&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/assets/img/computer-screen-too-high.jpg&quot; alt=&quot;Too high&quot; /&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;Too low (1)&lt;/td&gt;
+      &lt;td&gt;Too high (2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 
 &lt;p&gt;The top of the screen area should be &lt;a href=&quot;https://en.wikipedia.org/wiki/Human_factors_and_ergonomics#/media/File:Computer_Workstation_Variables_cleanup.png&quot;&gt;at the height of your eyes&lt;/a&gt; when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more ‘open’ position instead of hunched over or leaning backwards.&lt;/p&gt;
 
@@ -28,7 +41,14 @@
 
 &lt;p&gt;A ballpen requires pressure to get ink out of it. A flowing motion over the paper is all a fountain pen needs to write.&lt;/p&gt;
 
-&lt;p&gt;Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school children. It comes in thin and medium tip widths. I use the thin one in red for annotations and the medium one in blue/black for writing.&lt;/p&gt;</content><author><name></name></author><summary type="html">2018-06-26: rewritten</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-21T21:14:32+02:00</published><updated>2018-05-21T21:14:32+02:00</updated><id>https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll</id><content type="html" xml:base="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+&lt;p&gt;Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school children. It comes in thin and medium tip widths. I use the thin one in red for annotations and the medium one in blue/black for writing.&lt;/p&gt;
+
+&lt;h1 id=&quot;sources&quot;&gt;Sources&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;http://www.publicdomainfiles.com/show_file.php?id=13945849217864&lt;/li&gt;
+  &lt;li&gt;https://www.flickr.com/photos/criminalintent/5403052781&lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">2018-06-26: rewritten</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-21T21:14:32+02:00</published><updated>2018-05-21T21:14:32+02:00</updated><id>https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll</id><content type="html" xml:base="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 

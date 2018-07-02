@@ -9,6 +9,9 @@ categories:
 
 # Computer screen
 
+| ![Too low](/assets/img/computer-screen-too-low.jpg) | ![Too high](/assets/img/computer-screen-too-high.jpg) |
+| Too low (1) | Too high (2) |
+
 The top of the screen area should be [at the height of your eyes][wiki-ergonomics-pic] when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
 
 A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. 22 inch diagonal is large enough.
@@ -37,5 +40,10 @@ A ballpen requires pressure to get ink out of it. A flowing motion over the pape
 
 Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school children. It comes in thin and medium tip widths. I use the thin one in red for annotations and the medium one in blue/black for writing.
 
-[wiki-ergonomics-pic]:  https://en.wikipedia.org/wiki/Human_factors_and_ergonomics#/media/File:Computer_Workstation_Variables_cleanup.png
-[vimium]:               https://vimium.github.io/
+# Sources
+
+1. http://www.publicdomainfiles.com/show_file.php?id=13945849217864
+2. https://www.flickr.com/photos/criminalintent/5403052781
+
+[wiki-ergonomics-pic]:              https://en.wikipedia.org/wiki/Human_factors_and_ergonomics#/media/File:Computer_Workstation_Variables_cleanup.png
+[vimium]:                           https://vimium.github.io/
