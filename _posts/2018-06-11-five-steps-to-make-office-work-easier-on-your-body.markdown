@@ -14,7 +14,7 @@ categories:
 
 The top of the screen area should be at the height of your eyes when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
 
-A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don't need a screen that is much larger than 22 inches in diagonal if you learn how to use [multiple workspaces](gnome-shell). Starting left and right for longer periods is a strain on your eyes and neck.
+A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don't need a screen that is much larger than 22 inches in diagonal if you learn how to use [multiple workspaces](gnome-shell). Staring left and right for longer periods is a strain on your eyes and neck.
 
 Tip: the Ikea SIGFINN wooden monitor stand is a cheap and good looking way to raise your computer monitor.
 
