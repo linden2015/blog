@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="https://linden2015.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://linden2015.com/blog/" rel="alternate" type="text/html" /><updated>2018-07-03T00:23:54+02:00</updated><id>https://linden2015.com/blog/</id><title type="html">Blog about skills and ideas</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Five steps to make office work easier on your body</title><link href="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html" rel="alternate" type="text/html" title="Five steps to make office work easier on your body" /><published>2018-06-11T21:21:00+02:00</published><updated>2018-06-11T21:21:00+02:00</updated><id>https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body</id><content type="html" xml:base="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html">&lt;p&gt;2018-06-26: rewritten&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="https://linden2015.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://linden2015.com/blog/" rel="alternate" type="text/html" /><updated>2018-07-03T00:31:27+02:00</updated><id>https://linden2015.com/blog/</id><title type="html">Blog about skills and ideas</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Five steps to make office work easier on your body</title><link href="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html" rel="alternate" type="text/html" title="Five steps to make office work easier on your body" /><published>2018-06-11T21:21:00+02:00</published><updated>2018-06-11T21:21:00+02:00</updated><id>https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body</id><content type="html" xml:base="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html">&lt;p&gt;2018-06-26: rewritten&lt;/p&gt;
 
 &lt;h1 id=&quot;computer-screen&quot;&gt;Computer screen&lt;/h1&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
     &lt;tr&gt;
-      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/computer-screen-too-low.jpg&quot; alt=&quot;Too low&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/computer-screen-too-high.jpg&quot; alt=&quot;Too high&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/blog/asserts/img/computer-screen-correct.jpg&quot; alt=&quot;Correct&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/computer-screen-too-low.jpg?v2&quot; alt=&quot;Too low&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/computer-screen-too-high.jpg?v2&quot; alt=&quot;Too high&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/computer-screen-correct.jpg&quot; alt=&quot;Correct&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Too low &lt;sup&gt;1&lt;/sup&gt;&lt;/td&gt;
@@ -29,8 +29,8 @@
   &lt;tbody&gt;
     &lt;tr&gt;
       &lt;td&gt;&lt;img src=&quot;/blog/assets/img/keyboard-rubber-dome.jpg&quot; alt=&quot;Dome&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/keyboard-mx-switches.jpg&quot; alt=&quot;MX-switches&quot; /&gt;&lt;/td&gt;
-      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/keyboard-mx-switch.jpg&quot; alt=&quot;MX-switch&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/keyboard-cherry-mx-switches.jpg&quot; alt=&quot;MX-switches&quot; /&gt;&lt;/td&gt;
+      &lt;td&gt;&lt;img src=&quot;/blog/assets/img/keyboard-cherry-mx-switch.jpg&quot; alt=&quot;MX-switch&quot; /&gt;&lt;/td&gt;
     &lt;/tr&gt;
     &lt;tr&gt;
       &lt;td&gt;Rubber domes &lt;sup&gt;4&lt;/sup&gt;&lt;/td&gt;
