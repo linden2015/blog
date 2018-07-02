@@ -10,7 +10,7 @@ categories:
 # Computer screen
 
 | ![Too low](/blog/assets/img/computer-screen-too-low.jpg) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg) |
-| Too low (1) | Too high (2) |
+| Too low<sup>1</sup> | Too high<sup>2</sup> |
 
 The top of the screen area should be [at the height of your eyes][wiki-ergonomics-pic] when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
 
