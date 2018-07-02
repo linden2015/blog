@@ -9,16 +9,19 @@ categories:
 
 # Computer screen
 
-| ![Too low](/blog/assets/img/computer-screen-too-low.jpg) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg) |
-| Too low<sup>1</sup> | Too high<sup>2</sup> |
+| ![Too low](/blog/assets/img/computer-screen-too-low.jpg) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg) | ![Correct](/blog/asserts/img/computer-screen-correct.jpg)
+| Too low <sup>1</sup> | Too high <sup>2</sup> | Correct <sup>3</sup>
 
-The top of the screen area should be [at the height of your eyes][wiki-ergonomics-pic] when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
+The top of the screen area should be at the height of your eyes when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
 
-A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. 22 inch diagonal is large enough.
+A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don't need a screen that is much larger than 22 inches in diagonal if you learn how to use [multiple workspaces](gnome-shell). Starting left and right for longer periods is a strain on your eyes and neck.
 
 Tip: the Ikea SIGFINN wooden monitor stand is a cheap and good looking way to raise your computer monitor.
 
 # Keyboard
+
+| ![Dome](/blog/assets/img/keyboard-rubber-dome.jpg) | ![MX-switches](/blog/assets/img/keyboard-mx-switches.jpg) | ![MX-switch](/blog/assets/img/keyboard-mx-switch.jpg)
+| Rubber domes <sup>4</sup> | MX-switches <sup>5</sup> | MX-switch opened up <sup>6</sup> |
 
 Laptop keyboards are too small to comfortably position your hands and fingers. The keys also prevent locating which buttons are which by feel alone. The best keyboard is a mechanical keyboard where each key has its own separate stable switch underneath. Regular keyboards are mushy in their downpress and don't provide clear feedback about when the press was performed.
 
@@ -44,6 +47,10 @@ Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school chil
 
 1. http://www.publicdomainfiles.com/show_file.php?id=13945849217864
 2. https://www.flickr.com/photos/criminalintent/5403052781
+3. https://commons.wikimedia.org/wiki/File:Computer_Workstation_Variables_cleanup.png
+4. https://www.flickr.com/photos/24539319@N07/7773103236/
+5. https://www.flickr.com/photos/linsinchen/8742737743
+6. https://en.wikipedia.org/wiki/File:Cherry_MX_--_opened,_2.jpg
 
-[wiki-ergonomics-pic]:              https://en.wikipedia.org/wiki/Human_factors_and_ergonomics#/media/File:Computer_Workstation_Variables_cleanup.png
-[vimium]:                           https://vimium.github.io/
+[vimium]:           https://vimium.github.io/
+[gnome-shell]:      https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png
