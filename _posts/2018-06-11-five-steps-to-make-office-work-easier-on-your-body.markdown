@@ -4,9 +4,6 @@ title:  "Five steps to make office work easier on your body"
 date:   2018-06-11 21:21:00 +0200
 categories:
 ---
-
-2018-06-26: rewritten
-
 # Computer screen
 
 | ![Too low](/blog/assets/img/computer-screen-too-low.jpg?v2) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg?v2) | ![Correct](/blog/assets/img/computer-screen-correct.jpg)
@@ -45,12 +42,20 @@ Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school chil
 
 # Sources
 
-1. http://www.publicdomainfiles.com/show_file.php?id=13945849217864
+1. http://www.publicdomainfiles.com/show\_file.php?id=13945849217864
 2. https://www.flickr.com/photos/criminalintent/5403052781
-3. https://commons.wikimedia.org/wiki/File:Computer_Workstation_Variables_cleanup.png
+3. https://commons.wikimedia.org/wiki/File:Computer\_Workstation\_Variables\_cleanup.png
 4. https://www.flickr.com/photos/24539319@N07/7773103236/
 5. https://www.flickr.com/photos/linsinchen/8742737743
-6. https://en.wikipedia.org/wiki/File:Cherry_MX_--_opened,_2.jpg
+6. https://en.wikipedia.org/wiki/File:Cherry\_MX\_--\_opened,\_2.jpg
+
+# History
+
+* 2018-06-26: rewritten
+
+# Future improvements
+
+* Add desk height section
 
 [vimium]:           https://vimium.github.io/
 [gnome-shell]:      https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png
