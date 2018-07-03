@@ -17,7 +17,7 @@ Tip: the Ikea SIGFINN wooden monitor stand is a cheap and good looking way to ra
 
 # Keyboard
 
-| ![Dome](/blog/assets/img/keyboard-rubber-dome.jpg?v2) | ![MX-switches](/blog/assets/img/keyboard-cherry-mx-switches.jpg?v2) | ![MX-switch](/blog/assets/img/keyboard-cherry-mx-switch.jpg?v2)
+| ![Dome](/blog/assets/img/keyboard-rubber-dome.jpg?v2) | ![MX-switches](/blog/assets/img/keyboard-cherry-mx-switches.jpg?v2) | ![MX-switch](/blog/assets/img/keyboard-cherry-mx-switch.jpg?v3)
 | Rubber domes <sup>4</sup> | MX-switches <sup>5</sup> | MX-switch opened up <sup>6</sup> |
 
 Laptop keyboards are too small to comfortably position your hands and fingers. The keys also prevent locating which buttons are which by feel alone. The best keyboard is a mechanical keyboard where each key has its own separate stable switch underneath. Regular keyboards are mushy in their downpress and don't provide clear feedback about when the press was performed.
