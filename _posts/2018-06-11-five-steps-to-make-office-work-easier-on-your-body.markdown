@@ -36,18 +36,25 @@ There is a Chrome plugin called [Vimium][vimium] which allow you to use the keyb
 
 # No ballpens
 
-A ballpen requires pressure to get ink out of it. A flowing motion over the paper is all a fountain pen needs to write.
+| ![Ball pen](/blog/assets/img/pen-ballpen.jpg) | ![Fountain pen nib](/blog/assets/img/pen-fountain.jpg) | ![Fountain pen writing sample](/blog/assets/img/pen-fountain-writing-sample.jpg) |
+| Ball pen <sup>7</sup> | Fountain pen nib <sup>8</sup> | Fountain pen writing sample <sup>9</sup> |
 
-Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school children. It comes in thin and medium tip widths. I use the thin one in red for annotations and the medium one in blue/black for writing.
+The ball of a ballpoint pen needs to be pressed against the paper as it moves to get an adequete line of ink. A nib pen delivers ink to the paper on contact. A fountain pen is a nib pen with an internal reservoir.
+
+Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school children. It comes in thin and medium nib widths. I use a medium width with the color blue/black for writing and a thin width with the color red for annotations.
 
 # Sources
 
 1. http://www.publicdomainfiles.com/show\_file.php?id=13945849217864
-2. https://www.flickr.com/photos/criminalintent/5403052781
-3. https://commons.wikimedia.org/wiki/File:Computer\_Workstation\_Variables\_cleanup.png
-4. https://www.flickr.com/photos/24539319@N07/7773103236/
-5. https://www.flickr.com/photos/linsinchen/8742737743
-6. https://en.wikipedia.org/wiki/File:Cherry\_MX\_--\_opened,\_2.jpg
+1. https://www.flickr.com/photos/criminalintent/5403052781
+1. https://commons.wikimedia.org/wiki/File:Computer\_Workstation\_Variables\_cleanup.png
+1. https://www.flickr.com/photos/24539319@N07/7773103236/
+1. https://www.flickr.com/photos/linsinchen/8742737743
+1. https://en.wikipedia.org/wiki/File:Cherry\_MX\_--\_opened,\_2.jpg
+1. https://commons.wikimedia.org/wiki/File:Ballpointpentip\_lessnoise.jpg
+1. https://commons.wikimedia.org/wiki/File:Gama\_Supreme\_Flat\_Top\_ebonite\_eyedropper\_fountain\_pen\_4.JPG
+1. https://www.flickr.com/photos/rblanding/16441368093
+1. https://www.flickr.com/photos/56832361@N00/3046109691
 
 # History
 
