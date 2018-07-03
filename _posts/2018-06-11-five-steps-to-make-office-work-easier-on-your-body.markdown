@@ -6,7 +6,7 @@ categories:
 ---
 # Computer screen
 
-| ![Too low](/blog/assets/img/computer-screen-too-low.jpg?v2) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg?v2) | ![Correct](/blog/assets/img/computer-screen-correct.jpg)
+| ![Too low](/blog/assets/img/computer-screen-too-low.jpg?v3) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg?v3) | ![Correct](/blog/assets/img/computer-screen-correct.jpg?v2)
 | Too low <sup>1</sup> | Too high <sup>2</sup> | Correct <sup>3</sup>
 
 The top of the screen area should be at the height of your eyes when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
@@ -17,7 +17,7 @@ Tip: the Ikea SIGFINN wooden monitor stand is a cheap and good looking way to ra
 
 # Keyboard
 
-| ![Dome](/blog/assets/img/keyboard-rubber-dome.jpg) | ![MX-switches](/blog/assets/img/keyboard-cherry-mx-switches.jpg) | ![MX-switch](/blog/assets/img/keyboard-cherry-mx-switch.jpg)
+| ![Dome](/blog/assets/img/keyboard-rubber-dome.jpg?v2) | ![MX-switches](/blog/assets/img/keyboard-cherry-mx-switches.jpg?v2) | ![MX-switch](/blog/assets/img/keyboard-cherry-mx-switch.jpg?v2)
 | Rubber domes <sup>4</sup> | MX-switches <sup>5</sup> | MX-switch opened up <sup>6</sup> |
 
 Laptop keyboards are too small to comfortably position your hands and fingers. The keys also prevent locating which buttons are which by feel alone. The best keyboard is a mechanical keyboard where each key has its own separate stable switch underneath. Regular keyboards are mushy in their downpress and don't provide clear feedback about when the press was performed.
