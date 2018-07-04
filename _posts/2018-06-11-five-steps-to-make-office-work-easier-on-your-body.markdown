@@ -34,7 +34,7 @@ Tip: the Razer Atheris is stylish, sturdy and precise, and can use bluetooth and
 
 There is a Chrome plugin called [Vimium][vimium] which allow you to use the keyboard for selecting elements on the screen instead of clicking on them. There are also shortcuts for scrolling up and down and many more. You can save 25% or more clicks a day using this tool. It takes a short while to get the hang of it, but then you get a lifetime of benefits (or until we stop using keyboards).
 
-| ![Vimium follow links](/blog/assets/img/vimium-follow.jpg) | ![Vimium options](/blog/assets/img/vimium-options.jpg) |
+| ![Vimium follow links](/blog/assets/img/vimium-follow.jpg?v2) | ![Vimium options](/blog/assets/img/vimium-options.jpg?v2) |
 | Vimium _follow_ action | Vimium options overlay |
 
 # No ballpens
