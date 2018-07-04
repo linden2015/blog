@@ -13,7 +13,7 @@ The top of the screen area should be at the height of your eyes when sitting upr
 
 A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don't need a screen that is much larger than 22 inches in diagonal if you learn how to use [multiple workspaces](gnome-shell). Staring left and right for longer periods is a strain on your eyes and neck.
 
-Tip: the Ikea SIGFINN wooden monitor stand is a cheap and good looking way to raise your computer monitor.
+What I use: an Ikea Sigfinn bamboo monitor stand with an LG 24 inch IPS screen (24MP48HQ-P).
 
 # Keyboard
 
@@ -22,13 +22,13 @@ Laptop keyboards are too small to comfortably position your hands and fingers. T
 | ![Dome](/blog/assets/img/keyboard-rubber-dome.jpg?v2) | ![MX-switches](/blog/assets/img/keyboard-cherry-mx-switches.jpg?v2) | ![MX-switch](/blog/assets/img/keyboard-cherry-mx-switch.jpg?v3)
 | Rubber domes <sup>4</sup> | MX-switches <sup>5</sup> | MX-switch opened up <sup>6</sup> |
 
-Tip: the Logitech MasterKeys S is a basic mechanical keyboard of good quality and easy to find in stores.
+What I use: a Logitech MasterKeys S keyboard with Cherry MX brown switches and O-ring rubber dampeners under the keys.
 
 # Mouse
 
-A modern mouse with a high resolution sensor makes it easier to select the things on your screen than a regular mouse does, which allows your hand to be less cramped.
+A modern mouse with a high resolution sensor makes it easier to select things on your screen than a regular mouse does, which allows your hand to be less cramped.
 
-Tip: the Razer Atheris is stylish, sturdy and precise, and can use bluetooth and the more reliable 2.4 GHz radio frequency with a dongle. The Logitech MX series also comes highly recommended by many.
+What I use: a Razer Atheris mouse with USB dongle (it can do Bluetooth too).
 
 # Don't click when you don't have to
 
@@ -44,7 +44,7 @@ The ball of a ballpoint pen needs to be pressed against the paper as it moves to
 | ![Ball pen](/blog/assets/img/pen-ballpen.jpg) | ![Fountain pen nib](/blog/assets/img/pen-fountain.jpg) | ![Fountain pen writing sample](/blog/assets/img/pen-fountain-writing-sample.jpg) |
 | Ball pen <sup>7</sup> | Fountain pen nib <sup>8</sup> | Fountain pen writing sample <sup>9</sup> |
 
-Tip: the Pilot Kakuno is a sturdy and cute pen designed for Japanese school children. It comes in thin and medium nib widths. I use a medium width with the color blue/black for writing and a thin width with the color red for annotations.
+What I use: a set of Pilot Kakuno fountain pens. A medium width nib with blue/black ink for writing and a thin width nib with red color for annotating.
 
 # Sources
 
