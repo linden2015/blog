@@ -1,10 +1,16 @@
 ---
 layout: post
-title:  "Five steps to make office work easier on your body"
+title:  "Six steps to make office work easier on your body"
 date:   2018-06-11 21:21:00 +0200
 categories:
 ---
-# Computer screen
+# Desk height according to your own height
+
+Setting the desk height according to your own height is the basis of a good work environment setup. You can find a calculator for the desk height [here](desk-height-calculator). It also informs you about the chair height.
+
+What I use: an Ikea Skarsta desk, which has a crank to set the height.
+
+# Computer screen top-aligned with your eyes
 
 The top of the screen area should be at the height of your eyes when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more 'open' position instead of hunched over or leaning backwards.
 
@@ -15,7 +21,7 @@ A laptop screen is too small for comfortable viewing. It's best to pair your lap
 
 What I use: an Ikea Sigfinn bamboo monitor stand with an LG 24 inch IPS screen (24MP48HQ-P).
 
-# Keyboard
+# Keyboard with feel and feedback
 
 Laptop keyboards are too small to comfortably position your hands and fingers. The keys also prevent locating which buttons are which by feel alone. The best keyboard is a mechanical keyboard where each key has its own separate stable switch underneath. Regular keyboards are mushy in their downpress and don't provide clear feedback about when the press was performed.
 
@@ -24,7 +30,7 @@ Laptop keyboards are too small to comfortably position your hands and fingers. T
 
 What I use: a Logitech MasterKeys S keyboard with Cherry MX brown switches and O-ring rubber dampeners under the keys.
 
-# Mouse
+# Precise mouse
 
 A modern mouse with a high resolution sensor makes it easier to select things on your screen than a regular mouse does, which allows your hand to be less cramped.
 
@@ -37,7 +43,7 @@ There is a Chrome plugin called [Vimium][vimium] which allow you to use the keyb
 | ![Vimium follow links](/blog/assets/img/vimium-follow.jpg?v2) | ![Vimium options](/blog/assets/img/vimium-options.jpg?v2) |
 | Vimium _follow_ action | Vimium options overlay |
 
-# No ballpens
+# Writing without pressure on the paper
 
 The ball of a ballpoint pen needs to be pressed against the paper as it moves to get an adequete line of ink. A nib pen delivers ink to the paper on contact. A fountain pen is a nib pen with an internal reservoir.
 
@@ -67,5 +73,6 @@ What I use: a set of Pilot Kakuno fountain pens. A medium width nib with blue/bl
 
 * Add desk height section
 
-[vimium]:           https://vimium.github.io/
-[gnome-shell]:      https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png
+[vimium]:                   https://vimium.github.io/
+[gnome-shell]:              https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png
+[desk-height-calculator]:   https://www.blitzresults.com/en/ergonomic/
