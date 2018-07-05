@@ -62,7 +62,6 @@ What I use: a set of Pilot Kakuno fountain pens. A medium width nib with blue/bl
 1. https://en.wikipedia.org/wiki/File:Cherry\_MX\_--\_opened,\_2.jpg
 1. https://commons.wikimedia.org/wiki/File:Ballpointpentip\_lessnoise.jpg
 1. https://commons.wikimedia.org/wiki/File:Gama\_Supreme\_Flat\_Top\_ebonite\_eyedropper\_fountain\_pen\_4.JPG
-1. https://www.flickr.com/photos/rblanding/16441368093
 1. https://www.flickr.com/photos/56832361@N00/3046109691
 
 # History
