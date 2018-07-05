@@ -1,4 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="https://linden2015.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://linden2015.com/blog/" rel="alternate" type="text/html" /><updated>2018-07-04T17:00:27+02:00</updated><id>https://linden2015.com/blog/</id><title type="html">Blog about skills and ideas</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Five steps to make office work easier on your body</title><link href="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html" rel="alternate" type="text/html" title="Five steps to make office work easier on your body" /><published>2018-06-11T21:21:00+02:00</published><updated>2018-06-11T21:21:00+02:00</updated><id>https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body</id><content type="html" xml:base="https://linden2015.com/blog/2018/06/11/five-steps-to-make-office-work-easier-on-your-body.html">&lt;h1 id=&quot;computer-screen&quot;&gt;Computer screen&lt;/h1&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.2">Jekyll</generator><link href="https://linden2015.com/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="https://linden2015.com/blog/" rel="alternate" type="text/html" /><updated>2018-07-05T21:46:16+02:00</updated><id>https://linden2015.com/blog/</id><title type="html">Blog about skills and ideas</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Six steps to make office work easier on your body</title><link href="https://linden2015.com/blog/2018/06/11/six-steps-to-make-office-work-easier-on-your-body.html" rel="alternate" type="text/html" title="Six steps to make office work easier on your body" /><published>2018-06-11T21:21:00+02:00</published><updated>2018-06-11T21:21:00+02:00</updated><id>https://linden2015.com/blog/2018/06/11/six-steps-to-make-office-work-easier-on-your-body</id><content type="html" xml:base="https://linden2015.com/blog/2018/06/11/six-steps-to-make-office-work-easier-on-your-body.html">&lt;h1 id=&quot;desk-height-according-to-your-own-height&quot;&gt;Desk height according to your own height&lt;/h1&gt;
+
+&lt;p&gt;Setting the desk height according to your own height is the basis of a good work environment setup. You can find a calculator for the desk height &lt;a href=&quot;https://www.blitzresults.com/en/ergonomic/&quot;&gt;here&lt;/a&gt;. It also informs you about the chair height.&lt;/p&gt;
+
+&lt;p&gt;What I use: an Ikea Skarsta desk, which has a crank to set the height.&lt;/p&gt;
+
+&lt;h1 id=&quot;computer-screen-top-aligned-with-your-eyes&quot;&gt;Computer screen top-aligned with your eyes&lt;/h1&gt;
 
 &lt;p&gt;The top of the screen area should be at the height of your eyes when sitting upright. If you get this right then you have a good starting point that stimulates you to sit in a more ‘open’ position instead of hunched over or leaning backwards.&lt;/p&gt;
 
@@ -17,11 +23,11 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;p&gt;A laptop screen is too small for comfortable viewing. It’s best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don’t need a screen that is much larger than 22 inches in diagonal if you learn how to use &lt;a href=&quot;gnome-shell&quot;&gt;multiple workspaces&lt;/a&gt;. Staring left and right for longer periods is a strain on your eyes and neck.&lt;/p&gt;
+&lt;p&gt;A laptop screen is too small for comfortable viewing. It’s best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don’t need a screen that is much larger than 22 inches in diagonal if you learn how to use &lt;a href=&quot;https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png&quot;&gt;multiple workspaces&lt;/a&gt;. Staring left and right for longer periods is a strain on your eyes and neck.&lt;/p&gt;
 
 &lt;p&gt;What I use: an Ikea Sigfinn bamboo monitor stand with an LG 24 inch IPS screen (24MP48HQ-P).&lt;/p&gt;
 
-&lt;h1 id=&quot;keyboard&quot;&gt;Keyboard&lt;/h1&gt;
+&lt;h1 id=&quot;keyboard-with-feel-and-feedback&quot;&gt;Keyboard with feel and feedback&lt;/h1&gt;
 
 &lt;p&gt;Laptop keyboards are too small to comfortably position your hands and fingers. The keys also prevent locating which buttons are which by feel alone. The best keyboard is a mechanical keyboard where each key has its own separate stable switch underneath. Regular keyboards are mushy in their downpress and don’t provide clear feedback about when the press was performed.&lt;/p&gt;
 
@@ -42,7 +48,7 @@
 
 &lt;p&gt;What I use: a Logitech MasterKeys S keyboard with Cherry MX brown switches and O-ring rubber dampeners under the keys.&lt;/p&gt;
 
-&lt;h1 id=&quot;mouse&quot;&gt;Mouse&lt;/h1&gt;
+&lt;h1 id=&quot;precise-mouse&quot;&gt;Precise mouse&lt;/h1&gt;
 
 &lt;p&gt;A modern mouse with a high resolution sensor makes it easier to select things on your screen than a regular mouse does, which allows your hand to be less cramped.&lt;/p&gt;
 
@@ -50,7 +56,7 @@
 
 &lt;h1 id=&quot;dont-click-when-you-dont-have-to&quot;&gt;Don’t click when you don’t have to&lt;/h1&gt;
 
-&lt;p&gt;There is a Chrome plugin called &lt;a href=&quot;https://vimium.github.io/&quot;&gt;Vimium&lt;/a&gt; which allow you to use the keyboard for selecting elements on the screen instead of clicking on them. There are also shortcuts for scrolling up and down and many more. You can save 25% or more clicks a day using this tool. It takes a short while to get the hang of it, but then you get a lifetime of benefits (or until we stop using keyboards).&lt;/p&gt;
+&lt;p&gt;There is a Chrome plugin called [Vimium][https://vimium.github.io/] which allow you to use the keyboard for selecting elements on the screen instead of clicking on them. There are also shortcuts for scrolling up and down and many more. You can save 25% or more clicks a day using this tool. It takes a short while to get the hang of it, but then you get a lifetime of benefits (or until we stop using keyboards).&lt;/p&gt;
 
 &lt;table&gt;
   &lt;tbody&gt;
@@ -65,7 +71,7 @@
   &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&quot;no-ballpens&quot;&gt;No ballpens&lt;/h1&gt;
+&lt;h1 id=&quot;writing-without-pressure-on-the-paper&quot;&gt;Writing without pressure on the paper&lt;/h1&gt;
 
 &lt;p&gt;The ball of a ballpoint pen needs to be pressed against the paper as it moves to get an adequete line of ink. A nib pen delivers ink to the paper on contact. A fountain pen is a nib pen with an internal reservoir.&lt;/p&gt;
 
@@ -97,7 +103,6 @@
   &lt;li&gt;https://en.wikipedia.org/wiki/File:Cherry_MX_–_opened,_2.jpg&lt;/li&gt;
   &lt;li&gt;https://commons.wikimedia.org/wiki/File:Ballpointpentip_lessnoise.jpg&lt;/li&gt;
   &lt;li&gt;https://commons.wikimedia.org/wiki/File:Gama_Supreme_Flat_Top_ebonite_eyedropper_fountain_pen_4.JPG&lt;/li&gt;
-  &lt;li&gt;https://www.flickr.com/photos/rblanding/16441368093&lt;/li&gt;
   &lt;li&gt;https://www.flickr.com/photos/56832361@N00/3046109691&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -105,13 +110,8 @@
 
 &lt;ul&gt;
   &lt;li&gt;2018-06-26: rewritten&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h1 id=&quot;future-improvements&quot;&gt;Future improvements&lt;/h1&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Add desk height section&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><summary type="html">Computer screen</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-21T21:14:32+02:00</published><updated>2018-05-21T21:14:32+02:00</updated><id>https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll</id><content type="html" xml:base="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+  &lt;li&gt;2018-07-05: add desk height section&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Desk height according to your own height</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-05-21T21:14:32+02:00</published><updated>2018-05-21T21:14:32+02:00</updated><id>https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll</id><content type="html" xml:base="https://linden2015.com/blog/jekyll/update/2018/05/21/welcome-to-jekyll.html">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;To add new posts, simply add a file in the &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory that follows the convention &lt;code class=&quot;highlighter-rouge&quot;&gt;YYYY-MM-DD-name-of-post.ext&lt;/code&gt; and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.&lt;/p&gt;
 
