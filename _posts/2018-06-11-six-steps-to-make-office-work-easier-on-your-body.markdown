@@ -6,7 +6,7 @@ categories:
 ---
 # Desk height according to your own height
 
-Setting the desk height according to your own height is the basis of a good work environment setup. You can find a calculator for the desk height [here](desk_height_calculator). It also informs you about the chair height.
+Setting the desk height according to your own height is the basis of a good work environment setup. You can find a calculator for the desk height [here](https://www.blitzresults.com/en/ergonomic/). It also informs you about the chair height.
 
 What I use: an Ikea Skarsta desk, which has a crank to set the height.
 
@@ -17,7 +17,7 @@ The top of the screen area should be at the height of your eyes when sitting upr
 | ![Too low](/blog/assets/img/computer-screen-too-low.jpg?v3) | ![Too high](/blog/assets/img/computer-screen-too-high.jpg?v3) | ![Correct](/blog/assets/img/computer-screen-correct.jpg?v2)
 | Too low <sup>1</sup> | Too high <sup>2</sup> | Correct <sup>3</sup>
 
-A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don't need a screen that is much larger than 22 inches in diagonal if you learn how to use [multiple workspaces](gnome_shell). Staring left and right for longer periods is a strain on your eyes and neck.
+A laptop screen is too small for comfortable viewing. It's best to pair your laptop or PC with a computer monitor that has a good contrast (IPS technology or better). Such a screen is cheap and can last a decade. You don't need a screen that is much larger than 22 inches in diagonal if you learn how to use [multiple workspaces](https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png). Staring left and right for longer periods is a strain on your eyes and neck.
 
 What I use: an Ikea Sigfinn bamboo monitor stand with an LG 24 inch IPS screen (24MP48HQ-P).
 
@@ -38,7 +38,7 @@ What I use: a Razer Atheris mouse with USB dongle (it can do Bluetooth too).
 
 # Don't click when you don't have to
 
-There is a Chrome plugin called [Vimium][vimium] which allow you to use the keyboard for selecting elements on the screen instead of clicking on them. There are also shortcuts for scrolling up and down and many more. You can save 25% or more clicks a day using this tool. It takes a short while to get the hang of it, but then you get a lifetime of benefits (or until we stop using keyboards).
+There is a Chrome plugin called [Vimium][https://vimium.github.io/] which allow you to use the keyboard for selecting elements on the screen instead of clicking on them. There are also shortcuts for scrolling up and down and many more. You can save 25% or more clicks a day using this tool. It takes a short while to get the hang of it, but then you get a lifetime of benefits (or until we stop using keyboards).
 
 | ![Vimium follow links](/blog/assets/img/vimium-follow.jpg?v2) | ![Vimium options](/blog/assets/img/vimium-options.jpg?v2) |
 | Vimium _follow_ action | Vimium options overlay |
@@ -68,11 +68,4 @@ What I use: a set of Pilot Kakuno fountain pens. A medium width nib with blue/bl
 # History
 
 * 2018-06-26: rewritten
-
-# Future improvements
-
-* Add desk height section
-
-[vimium]:                   https://vimium.github.io/
-[gnome_shell]:              https://commons.wikimedia.org/wiki/File:GNOME_Shell_Workspaces.png
-[desk_height_calculator]:   https://www.blitzresults.com/en/ergonomic/
+* 2018-07-05: add desk height section
